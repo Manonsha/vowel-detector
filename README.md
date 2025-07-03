@@ -17,11 +17,4 @@ A simple Java console application that checks whether a single alphabet characte
 - Java Development Kit (JDK) 8 or later
 - A Java IDE (e.g., IntelliJ IDEA, Eclipse) or a simple text editor + terminal
 
-### ✅ Run Locally
-
-1. Clone or download the repository.
-2. Navigate to the directory:
-   ```bash
-   cd projectUpload
-
 
